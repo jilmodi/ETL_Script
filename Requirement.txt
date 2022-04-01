@@ -1,1 +1,5 @@
 pyodbc==4.0.32
+pgeocode==1.2.5
+requests== 2.27.1
+datetime==4.4
+pandas==1.4.1
